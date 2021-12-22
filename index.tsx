@@ -5,7 +5,7 @@ import MyDatePicker from './MyDatePicker';
 function App() {
   return (
     <div>
-      app
+      继承并扩展 DatePicker props
       <MyDatePicker allowClear={true} />
     </div>
   );
